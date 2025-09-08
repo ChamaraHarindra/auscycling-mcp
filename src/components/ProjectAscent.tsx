@@ -13,7 +13,7 @@ const ProjectAscent = () => {
             </h2>
 
             <p className="text-[#3c444d] text-[18px] leading-[32px] mb-6">
-              The World's Most Future Focused Cycling Pathway
+              The World&apos;s Most Future Focused Cycling Pathway
             </p>
 
             <div className="flex gap-4">

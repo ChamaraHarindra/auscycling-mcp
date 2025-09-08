@@ -22,7 +22,8 @@ const BecomeMember = () => {
             </h2>
 
             <p className="text-[#3c444d] text-[18px] leading-[32px] mb-6">
-              Whether you're a recreational rider or a competitor aiming for the
+              Whether you&apos;re a recreational rider or a competitor aiming
+              for the
               <br />
               podium, AusCycling has a membership for you. We offer a range of
               <br />
