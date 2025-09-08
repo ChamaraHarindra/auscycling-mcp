@@ -39,7 +39,7 @@ const UpcomingEvents = () => {
 
         {/* Events List */}
         <div className="space-y-5">
-          {events.map((event, index) => (
+          {events.map((event) => (
             <div
               key={event.id}
               className="border-t border-[#d3d5d7] first:border-t-0"
